@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #fff url("../img/preloader.svg") no-repeat center center;
+  background: #fff url("preloader.svg") no-repeat center center;
 }
 
 /* Back to top button */
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../../img/sekolah.jpg) top center;
+  background: url(sekolah.jpg) top center;
   background-size: cover;
   position: relative;
 }
@@ -502,7 +502,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-container .background {
   min-height: 300px;
-  background: url(../../img/ekskul2.jpeg) center top no-repeat;
+  background: url(ekskul2.jpeg) center top no-repeat;
   background-position: 12px -120px;
   margin-bottom: 10px;
 }
